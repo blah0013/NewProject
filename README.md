@@ -1,2 +1,3 @@
 # NewProject
 Nothing
+Just trying to start learning coding...
